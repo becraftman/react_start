@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import {push} from '../util/hf.js';
 import classNames from 'classnames';
 import css from './Button.style.css';
-import  _ from 'lodash';
+import _ from 'lodash';
 
 /**
  * 通用按钮
